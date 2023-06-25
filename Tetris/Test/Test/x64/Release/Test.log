@@ -1,0 +1,15 @@
+﻿  Test.cpp
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(85,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(97,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(143,25): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(215,24): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(229,45): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(229,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(236,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(236,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 80 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Test.vcxproj -> C:\Users\lukba\Desktop\tetris\Test\x64\Release\Test.exe

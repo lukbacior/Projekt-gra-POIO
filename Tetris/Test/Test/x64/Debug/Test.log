@@ -1,0 +1,10 @@
+﻿  Test.cpp
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(38,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(50,33): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(72,65): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(126,40): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(137,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(137,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(145,47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\lukba\Desktop\tetris\Test\Test\Test.cpp(145,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Test.vcxproj -> C:\Users\lukba\Desktop\tetris\Test\x64\Debug\Test.exe
